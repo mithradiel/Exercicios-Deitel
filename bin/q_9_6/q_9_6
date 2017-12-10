@@ -1,0 +1,21 @@
+Shape()
+Bidimensionais(Shape)
+Tridimensionais(Shape)
+Poligonos(Bidimensionais)
+Triangulos(Poligonos)
+Retangulos(Poligonos)
+Circulos(Bidimensionais)
+
+Quadrado(Retangulos)
+Prisma(Retangulos)
+Retangulo(Retangulos)
+
+Triangulo Isosceles(Triangulos)
+Triangulo Equilatero(Triangulos)
+Triangulo Escaleno(Triangulos)
+Triangulo Retangulo(Triangulos)
+
+Esfera(Tridimensionais)
+Paralelepipedo(Tridimensionais)
+Cone(Tridimensionais)
+Caixa(Tridimensionais)

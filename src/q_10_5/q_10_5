@@ -1,0 +1,6 @@
+Uma classe abstrata seria apenas um rascunho, uma classe que 
+vai receber seus verdadeiros valores a partir de sua subclasse e que não pode
+ser instanciada.
+
+Uma classe abstrata é útil quando não faz sentido haver objetos instanciados dessa classe
+que deve ser utilizada para polimorfismo.

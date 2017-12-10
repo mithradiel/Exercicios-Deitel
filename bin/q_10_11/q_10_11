@@ -1,0 +1,3 @@
+É útil pois podemos armazenar o comportamento necessário
+diretamenta na interfarce, no que antes seria preciso criar uma classe
+para armazenas os métodos statics.

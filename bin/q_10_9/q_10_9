@@ -1,0 +1,3 @@
+Permitindo que uma interface forneça um comportamento,
+dessa forma fazendo com que não seja preciso alterar o código
+das classes que utilizam essa interface.

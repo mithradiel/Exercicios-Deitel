@@ -1,0 +1,3 @@
+Permitindo ao programador escrever um metodo geral(vazio) na superclasse
+que sera preenchido de maneira diferente por cada subclasse e dessa forma
+assumir um padrão diferente.

@@ -1,0 +1,7 @@
+As duas não podem ser instanciadas, devem possuir classes abstratas
+funcionam como um tipo de padrão que deve ser seguido pelas
+subclasses ou classes que implementam a interface(no caso de interface).
+
+A interface deve possuir todos os métodos public e  não pode especificar 
+nenhum detalhe de implementação, como declarações de método 
+concreto e variáveis de instância.   

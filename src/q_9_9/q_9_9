@@ -1,0 +1,3 @@
+a) Vai chamar o método earnings() da superclasse
+b) Informa ao compilador que o método deve sobrepor um método da superclasse
+c) Está passando os paramétros da superclasse para que possa ser iniciado.

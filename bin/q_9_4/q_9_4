@@ -1,0 +1,4 @@
+A herança poupa tempo ao reutilizar código para facilitar a construção de um novo,
+permitindo que um algoritmo possa utilizar funções escritas em uma classe ja pronta
+o que poupa o tempo do programador que normalmente deveria escrever todo o código necessário
+do zero.

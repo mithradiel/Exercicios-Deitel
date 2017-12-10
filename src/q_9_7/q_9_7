@@ -1,0 +1,4 @@
+Os metodos private de uma superclasse só podem ser acessados por subclasses por
+metodos public ou protected herdados. 
+enquanto os metodos protected de uma superclasse podem ser acessados por
+suas subclasses e outras classes no mesmo pacote.
